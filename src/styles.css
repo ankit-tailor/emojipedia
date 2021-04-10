@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  margin: 0;
+  background-color: #CAD5E2;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+input {
+  width: 50%;
+  padding: 0.8rem;
+  border: none;
+  border-radius: 10px;
+}
+
+input:focus {
+  outline: none;
+}
